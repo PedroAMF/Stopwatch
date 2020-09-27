@@ -1,0 +1,13 @@
+/mnt/Pedro/WorkSpace/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch
+/mnt/Pedro/WorkSpace/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.deps.json
+/mnt/Pedro/WorkSpace/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.runtimeconfig.json
+/mnt/Pedro/WorkSpace/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.runtimeconfig.dev.json
+/mnt/Pedro/WorkSpace/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.dll
+/mnt/Pedro/WorkSpace/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.pdb
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.csprojAssemblyReference.cache
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.AssemblyInfoInputs.cache
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.AssemblyInfo.cs
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.csproj.CoreCompileInputs.cache
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.dll
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.pdb
+/mnt/Pedro/WorkSpace/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.genruntimeconfig.cache
